@@ -1,0 +1,12 @@
+.roundedButton {
+  color: #fff;
+  background-color: rgb(225, 0, 80);
+  border-radius: 10px;
+  padding: 10px 20px;
+  border: 0;
+  cursor: pointer;
+}
+
+.roundedButton:hover {
+  background-color: rgb(181, 2, 66);
+}

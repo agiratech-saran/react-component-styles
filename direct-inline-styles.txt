@@ -1,0 +1,3 @@
+const heading = () => {
+  return <h1 style={{color: '#fff', backgroundColor: '#03a87c'}} >Hello World</h1>;
+}

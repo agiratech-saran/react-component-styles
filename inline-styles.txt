@@ -1,0 +1,7 @@
+const headingStyles = { 
+  color: '#fff',
+  backgroundColor: '#03a87c'
+};
+const heading = () => {
+ return <h1 style={headingStyles}>Hello World</h1>;
+};
